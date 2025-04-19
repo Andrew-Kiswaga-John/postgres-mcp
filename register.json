@@ -1,0 +1,7 @@
+{
+    "type": "call_tool",
+    "tool_name": "register",
+    "params": {
+      "conn_str": "postgresql://postgres:admin123@localhost:5432/whatsapp-supplier-agent"
+    }
+}
